@@ -16,5 +16,5 @@
   <paginationInput>
     <pageNumber>1</pageNumber>
   </paginationInput>
-  <sortOrder>EndTimeSonnest</sortOrder>
+  <sortOrder>EndTimeSoonest</sortOrder>
 </findItemsAdvancedRequest>
