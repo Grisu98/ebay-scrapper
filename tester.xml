@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<findItemsAdvancedRequest xmlns="http://www.ebay.com/marketplace/search/v1/services">
+  <categoryId>177</categoryId>
+  <itemFilter>
+    <name>LocatedIn</name>
+    <value>DE</value>
+  </itemFilter>
+  <itemFilter>
+    <name>MaxPrice</name>
+    <value>300</value>
+  </itemFilter>
+  <itemFilter>
+    <name>listingType</name>
+    <value>Auction</value>
+  </itemFilter>
+  <paginationInput>
+    <pageNumber>1</pageNumber>
+  </paginationInput>
+  <sortOrder>EndTimeSonnest</sortOrder>
+</findItemsAdvancedRequest>
